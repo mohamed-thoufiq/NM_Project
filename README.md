@@ -1,7 +1,7 @@
 # AI-Based Supply Chain Management
 
 
-![Status](https://img.shields.io/badge/status-in--progress-yellow)
+![Status](https://img.shields.io/badge/status-completed-yellow)
 
 ## 📦 Overview
 
