@@ -67,7 +67,7 @@ AI-Based-Supply-Chain-Management/
 ### Installation
 
 bash
-git clone https://github.com/yourusername/AI-Based-Supply-Chain-Management.git
+git clone [https://github.com/yourusername/AI-Based-Supply-Chain-Management.git](https://github.com/mohamed-thoufiq/NM_Project)
 cd AI-Based-Supply-Chain-Management
 pip install -r requirements.txt
 python src/forecasting/demand_predictor.py --input data/sample_data.csv
