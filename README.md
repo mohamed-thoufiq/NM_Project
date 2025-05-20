@@ -1,6 +1,6 @@
 # AI-Based Supply Chain Management
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Status](https://img.shields.io/badge/status-in--progress-yellow)
 
 ## 📦 Overview
